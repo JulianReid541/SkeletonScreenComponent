@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled, { css, keyframes } from "styled-components";
 import { rgba } from "polished";
-import boy from "assets/images/boy.svg";
+import boy from "./boy.svg";
 
 const Card = styled.div`
   border-radius: 0.5rem;
